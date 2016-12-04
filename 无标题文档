@@ -1,6 +1,9 @@
 #coding:utf8
 def aa():
 	print 'aaa'
+	if aa == 0:
+		print 'Hello word'
 
 	return aa
+
 
