@@ -1,0 +1,6 @@
+
+def aa():
+	print 'aaa'
+
+	return aa
+
